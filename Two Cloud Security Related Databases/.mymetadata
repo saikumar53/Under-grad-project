@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Two Cloud Security Related Databases"
+  id="myeclipse.1504331660265"
+  context-root="/Two Cloud Security Related Databases"
+  j2ee-spec="5.0"
+  archive="Two Cloud Security Related Databases.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
